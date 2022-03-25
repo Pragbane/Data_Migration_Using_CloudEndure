@@ -1,1 +1,11 @@
-# Data_Migration_Using_CloudEndure
+![image](https://user-images.githubusercontent.com/54443903/160154769-08103cb8-76b4-4c41-a7f4-cdb4139e725f.png)
+![image](https://user-images.githubusercontent.com/54443903/160154844-68088999-9938-48e9-91ae-2246b9d9b05a.png)
+![image](https://user-images.githubusercontent.com/54443903/160154858-c917a8b0-9334-45dc-913d-ae7dab09e15a.png)
+![image](https://user-images.githubusercontent.com/54443903/160154874-b7c16068-a169-46f1-ae97-188e66ba2d6c.png)
+![image](https://user-images.githubusercontent.com/54443903/160154886-bb02ab67-230d-494a-b1e3-f14e3e8d1a5e.png)
+![image](https://user-images.githubusercontent.com/54443903/160154903-79514a9b-9b05-4bd1-b299-a86b960af385.png)
+![image](https://user-images.githubusercontent.com/54443903/160154919-2939e18c-1330-45df-a62a-b186b744c667.png)
+![image](https://user-images.githubusercontent.com/54443903/160154932-45518a0e-8423-4325-ac89-4656d1e0f934.png)
+![image](https://user-images.githubusercontent.com/54443903/160154953-ddc2f167-b7a5-4430-8038-376156cb06d0.png)
+![image](https://user-images.githubusercontent.com/54443903/160154968-613bb18f-9cba-415d-89b8-4507a071cab5.png)
+![image](https://user-images.githubusercontent.com/54443903/160154984-ef8ae192-bf68-4720-a0b7-d5b8e705a529.png)
